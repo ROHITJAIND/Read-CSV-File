@@ -19,6 +19,11 @@ To write a python program to read contents from a CSV file.
 #Program to read contents from a CSV file.
 #Developed by: ROHIT JAIN D
 #RegisterNumber: 212222230120
+
+```  
+
+
+```Python
 import pandas as pd
 df = pd.read_csv("data.csv")
 print(df.head(10))
