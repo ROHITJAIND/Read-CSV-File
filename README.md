@@ -35,4 +35,4 @@ print("No.of Columns:",len(df.axes[1]))
 ![Screenshot 2023-06-04 125922](https://github.com/ROHITJAIND/Read-CSV-File/assets/118707073/e6ecec2c-dab4-4e4b-899b-48834d5ec733)
 
 ## RESULT:
-Hence the programe is executed successfully!
+Hence the python programe to read the contents from a csv file is executed successfully!
